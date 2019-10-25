@@ -585,6 +585,14 @@ _Barueri/SP_
 Vue, Vuex, Node.js, Golang, GraphQL, AWS Lambda, AWS AppSync, AWS DynamoDB, AWS RDS, AWS API Gateway...
 _Barueri/SP_
 
+[Tenda Digital](https://tenda.digital/)
+Vue.js, Node.js, Ionic, Angular, Cordova, Elastic Search, Google Cloud, Cloud Functions, Heroku...
+_São Caetano do Sul/SP_
+
+[Thamus](https://thamus.com.br/)
+Vue, Vuex, Cordova, Nuxt.js, Python, AWS Lambda, MongoDB, Node.js...
+_São Caetano do Sul/SP_
+
 # U
 
 [uMov](http://www.umov.me/)              
